@@ -25,3 +25,5 @@ Thumbs.db  # Windows
 tmp_data.txt
 
 second-project/
+
+.env
